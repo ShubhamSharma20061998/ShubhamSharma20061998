@@ -24,8 +24,8 @@ I'm Shubham Sharma, a passionate MERN stack developer in the making.
 
 Here are some projects I've been working on:
 
-- [Project 1](https://structural-firm-site.netlify.app/)
-- [Project 2](https://restock-shubham.netlify.app/)
+- [Structural Engineering](https://structural-firm-site.netlify.app/)
+- [reStock](https://restock-shubham.netlify.app/)
 
 Feel free to explore my repositories for more!
 
