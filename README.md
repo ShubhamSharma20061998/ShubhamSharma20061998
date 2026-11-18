@@ -6,6 +6,7 @@ I'm a **Software Engineer** specializing in the **MERN Stack** and building scal
 
 - 💻 Currently working as a **Software Engineer** at *Nhance Digital Buildtech*, where I architect backend services and interactive UI dashboards for Digital Twin and Building Management Systems (BMS).
 - 🛠️ Experienced in leading development teams and leveraging AI tools (Cursor, Claude AI) to plan features and accelerate delivery timelines.
+- 🧠 Building and orchestrating AI workflows utilizing LangChain, Groq API, and Gradio for intelligent application interfaces.
 - 🔐 Passionate about engineering secure authentication architectures (JWT, Argon2) and robust RESTful APIs.
 - 📡 Exploring and implementing IoT integrations (BACnet, MQTT) for real-time telemetry data scraping and processing.
 - 🤝 Always open to discussing system architecture, full-stack development, and innovative tech collaborations.
@@ -17,6 +18,14 @@ I'm a **Software Engineer** specializing in the **MERN Stack** and building scal
 
 **Backend & Security:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+**AI & LLM Orchestration:**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-Deterministic_Parsing-4B5563?style=flat-square)
+
+- **LLM Orchestration:** LangChain (Prompt templates, string output parsers, and routing chains)
+- **AI Model Provider:** Groq API / Llama 3.3 (Blazing-fast natural language classification, escalation notes, and email drafting)
+- **Frontend UI (AI):** Gradio for interactive web dashboards, live audit logs, and real-time metrics
+- **Text Extraction:** Regular Expressions (Deterministic timeframe and keyword parsing)
 
 **IoT & Tools:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![MQTT](https://img.shields.io/badge/mqtt-660066?style=flat-square&logo=mqtt&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=Stripe&logoColor=white)
@@ -41,4 +50,4 @@ I'm a **Software Engineer** specializing in the **MERN Stack** and building scal
 <!-- - **Portfolio**: [Your Portfolio Link Here](#) -->
 
 ---
-⭐️ *From building secure backend services to crafting responsive frontend interfaces, let's build something amazing together!*
+⭐️ *From building secure backend services to orchestrating intelligent AI workflows, let's build something amazing together!*
