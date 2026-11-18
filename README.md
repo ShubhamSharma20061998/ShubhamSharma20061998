@@ -40,7 +40,7 @@ I'm a **Software Engineer** specializing in the **MERN Stack** and building scal
 
 ## 📂 Featured Projects
 
-- **[Restock Supply Chain Platform](https://restock-shubham.netlify.app/)**: A robust B2B transaction interface with integrated Stripe API for secure payment processing, data validation (Joi/Zod), and secure user flows.
+- **[Shipment Desk](https://github.com/ShubhamSharma20061998/shipment-desk)**: A hybrid AI logistics exception triage system combining LLM natural language classification and drafting with deterministic Python financial guardrails, automated compensation calculation, and real-time Gradio session analytics.
 - **[Structural Engineering Website](https://structural-firm-site.netlify.app/)**: A responsive, mobile-first platform focusing on fast asset loading and optimized SEO for enhanced web visibility.
 
 ## 🌐 Let's Connect!
